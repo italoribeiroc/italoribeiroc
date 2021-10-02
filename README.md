@@ -1,6 +1,7 @@
 ### Hi there! 😁
 
 My name is Italo from Brazil (🇧🇷). I'm a computer engineering student passionate about technology and software development
+
 Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italocvribeiro/)](https://www.linkedin.com/in/italocvribeiro/)
