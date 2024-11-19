@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-My name is Italo from Brazil (🇧🇷). I'm a computer engineering student passionate about technology and software development
+My name is Italo from Brazil (🇧🇷). I'm a Computer Engineer passionate about technology and software development
 
 Would you like to find me?
 
